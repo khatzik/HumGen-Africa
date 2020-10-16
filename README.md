@@ -1,4 +1,4 @@
-# Repository of the Volos Summer School
+# Repository of the WGCAC
 
 * For the 2019 edition, please click [here](VSS_2019/README.md)
 * For the 2018 edition, please click [here](VSS_2018/README.md)
